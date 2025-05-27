@@ -1,0 +1,21 @@
+# Cara menjalankan skrip
+python3 main.py
+
+# Menjalankan unit test pada folder tests
+cd "D:\PIpeline Fixed"
+$env:PYTHONPATH="."
+pytest tests/extract.py
+pytest tests/transform.py
+pytest tests/test_load.py
+
+# Menjalankan test coverage pada folder tests
+python -m coverage run -m pytest tests/test_extract.py
+python -m coverage run -m pytest tests/test_transform.py
+python -m coverage run -m pytest tests/test_load.py
+
+# Melihat report coverage test
+python -m coverage run -m pytest tests/
+coverage report -m
+
+# Url Google Sheets:
+https://docs.google.com/spreadsheets/d/15R96VleC2R8KZfPtdmEHGxBNjNxT1SxCYRUKPRyZw-Y/edit?usp=sharing

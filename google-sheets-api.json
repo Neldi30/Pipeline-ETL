@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-pipeline-460520",
+  "private_key_id": "3fa35489954348d45d99b91e04dd0ba7d4f6e93c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/hyZahhMfFGRb\nHZHvjwYGCCss0C0v66oWvrb/CYzVSxta9TIdPV4CDK45uznrrru0GQeZ3gG22hmX\nEjSnsAPYkk2MyMgD5rpvPx+FrjtlDLA8yeh85w36ZQXYWLeGHvVsduHz9J9tCjci\ntmZod77/LDfrmOIDK6thF0tttpOI1gq0bssARymgE/DL249pAkww5CelXMmLRN0c\nU0x+RNDGvNtQdW947NeEhOfXK6wT3GfMzvYl/wnP9769Te0mCDPgDUtTSr1B0iL9\nTd7eO//Zmok/V41nwj1vjcxuJKTBnbTcSXEt7XXh8aua8GQVCq9GQr1JPNW0qU7Z\nK1puXEjdAgMBAAECggEAAfj/YSFOYxyPqAyW6zO66Sb+YtjGDl9MAi32rovHoo7C\nel5aJMj0BethhAC0qQPEtSco1+HcfKikaNTsK+n5MCrZl6CdxsSCmRC6X2MbA4Bs\n9ENUHK04jKKru722LjB1cKeMzjlvxuy7AqWESoEpO3GWJdwOP+AcRMS7pyahQGCH\nY68xpXgGFCLl1HnpsveO8D1eL7z/jY0XiHVxdqMA/qVCIRAPXvLIdQGingMQ04/D\n11hcJcPDq7eZY7gFCQLXxDfeCTXASxultrHT2IJ3jdZ2OzDA1tvDWlGfYZfIHNma\n95sMDYqlHNCS9hNzLQvJaH62Itjnenyyd1K0yIDtgQKBgQD84oOGm4wbUoOTjlbx\nBDcOiMthqoiLJSWuDJPgb0mr5WqSrPeqx5h2MPSxj39Rr9OG7LWPIUAkhQBT8ZJa\nZDLlHqHnmBeKu2DNj25T4cF5Tgkjdm9Fns8ydbQWxNy9fN8vWZOrtPUKuiVi0oPS\nLVHEZZXHTrYHhd34f8QTbsaG4QKBgQDB4yTKBUhP2qhFNINqGftxT/4QRjtKtMNf\nBMIbPvg/8MZsKtCpYgGMQzhd21NJ2D4zgxq7i8ugFcSOU1oyaeQu3+YsVIBgFvaF\ndyZCa3ujofAvrr6M9RghUjonvI+x7sJiKNH3T77m/7cheQDDx3/bOJ5PRZrIWHI6\np9hBm/MNfQKBgQDzTMc4Ib1JqDiZJZA2MFT8MdZjL9xQ6zt2WfmIK+oYbQ/88FcU\nQxZHWFCD6MiZAe4kWOdRPq9ks2WeXcPuHYrt72vb0vOLcT3wZ7fBEmm/WLnoGZFy\nzRkRtja+1UZ/NH3SI3+06tP7Lx67FkjnVNzfdNEGwY7WbBAkfmBaRfDRYQKBgHPp\nY7kS52Q2CJs3BcmMtvHLLMx18ER9RL+tjI3VW3x+aWGJRy28VciQ90XFNUnUaXtK\nSdUNgjK2UMf1tNqmy6/qUyT1b7oCgGbSEKFsuIHe8kTPZ0PF0yM4kWPoKs/pOXSN\nitkbZ7mZ7tWoDXj978YTVzF1H0/e8It4hKTUor3RAoGBAPVYeFsal/Zs9fS769Rg\ngwByy0X8tvdx6C1fIFPon6ono1xEwEWLyutgj508eJI1gK/ROp09CVxKqAUC1mU9\nWAMuKktTiZFER3R5f6UQ/suCS03Q1PNWwYuEzJM2dBqWZpti65DEaZvcK7jqDMe4\nI+Nf7crNMbZMenFAJOf4c5Bh\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet-pipeline@my-project-pipeline-460520.iam.gserviceaccount.com",
+  "client_id": "103090879986049986727",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet-pipeline%40my-project-pipeline-460520.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
